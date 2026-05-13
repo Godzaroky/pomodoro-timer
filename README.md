@@ -109,7 +109,3 @@ const progress = ((totalTime - timeLeft) / totalTime) * 100;
 ```
 
 ---
-
-## 📄 Licencia
-
-MIT
